@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>VSCodigo.SimplificadorDeConsole.Recebedores</PackageId>
+    <Version>0.1.1</Version>
+    <Title>Simplificador de Console: Recebedores</Title>
+    <Authors>VSCodigo</Authors>
+    <Company>VSCodigo</Company>
+    <Product>VSCodigo.SimplificadorDeConsole.Recebedores</Product>
+    <Description>Diferentes tipos de receptores de entrada que repetem até a entrada ser compatível com o tipo escolhido.</Description>
+    <Copyright>GPL-3.0-or-later</Copyright>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>

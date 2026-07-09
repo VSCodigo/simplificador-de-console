@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nl7YIa1cMmA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kakaroto\\source\\Biblioteca\\SimplificadorDeConsole\\TesteDaBiblioteca\\AmbienteDeTeste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kakaroto\\.nuget\\packages\\vscodigo.simplificadordeconsole.recebedores\\0.1.1\\vscodigo.simplificadordeconsole.recebedores.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

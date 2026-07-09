@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AmbienteDeTeste/1.0.0": {
+        "dependencies": {
+          "VSCodigo.SimplificadorDeConsole.Recebedores": "0.1.1",
+          "RecebedoresDeEntrada": "0.1.1.0"
+        },
+        "runtime": {
+          "AmbienteDeTeste.dll": {}
+        }
+      },
+      "VSCodigo.SimplificadorDeConsole.Recebedores/0.1.1": {
+        "runtime": {
+          "RecebedoresDeEntrada.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "RecebedoresDeEntrada/0.1.1.0": {
+        "runtime": {
+          "RecebedoresDeEntrada.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmbienteDeTeste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSCodigo.SimplificadorDeConsole.Recebedores/0.1.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecebedoresDeEntrada/0.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="RecebedoresDeEntrada/RecebedoresDeEntrada.csproj" />
+  <Project Path="TesteDaBiblioteca/AmbienteDeTeste.csproj" />
+</Solution>

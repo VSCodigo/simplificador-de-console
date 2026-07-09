@@ -1,0 +1,11 @@
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\bin\Debug\net10.0\RecebedoresDeEntrada.deps.json
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\bin\Debug\net10.0\RecebedoresDeEntrada.dll
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\bin\Debug\net10.0\RecebedoresDeEntrada.pdb
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\obj\Debug\net10.0\RecebedoresDeEntrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\obj\Debug\net10.0\RecebedoresDeEntrada.AssemblyInfoInputs.cache
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\obj\Debug\net10.0\RecebedoresDeEntrada.AssemblyInfo.cs
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\obj\Debug\net10.0\RecebedoresDeEntrada.csproj.CoreCompileInputs.cache
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\obj\Debug\net10.0\RecebedoresDeEntrada.dll
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\obj\Debug\net10.0\refint\RecebedoresDeEntrada.dll
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\obj\Debug\net10.0\RecebedoresDeEntrada.pdb
+C:\Users\Kakaroto\source\Biblioteca\SimplificadorDeConsole\RecebedoresDeEntrada\obj\Debug\net10.0\ref\RecebedoresDeEntrada.dll
